@@ -1,0 +1,279 @@
+{
+  "main": {
+    "id": "fa2153265cb40264",
+    "type": "split",
+    "children": [
+      {
+        "id": "10ef057ed8337f67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5514b92ffa98c2fc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "a826066945579929",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Not published/Copper Mine Encounter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Copper Mine Encounter"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c4669a805224b5cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "35833c304f0a1460",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf0c3807a7e6ff5f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cd2b9d7a2284566a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "\"The Owl",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "62813d56d746b922",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 339
+  },
+  "right": {
+    "id": "6d2287f3c852f4c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "e917435e90db921f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c96d44ea507907a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "60e8e9ac44266a76",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "cb5372db4b6b0ad0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "471ac6a084b4b472",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8b9d80f4065138b3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Not published/Copper Mine Encounter.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "647405dd4344b3a6",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_7a09a80b4808",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 2,
+                    "month": 7,
+                    "year": 2950
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "hideEra": false,
+                  "displayMoons": true,
+                  "displayWeather": true,
+                  "location": ""
+                },
+                "id": "ID_aaeaeacafacb"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 216
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "a826066945579929",
+  "lastOpenFiles": [
+    "Not published/Copper Mine Encounter.md",
+    "Locations/The Rusty Raven.md",
+    "Locations/Cities/Arrowhost.md",
+    "Not published",
+    "Images/BattleMaps/InnerMine.jpg",
+    "Images/BattleMaps/Ikke bekræftet 952790.crdownload",
+    "Images/BattleMaps/OuterMine.jpg",
+    "Images/BattleMaps/Ikke bekræftet 38417.crdownload",
+    "Images/BattleMaps",
+    "Images/Ny mappe",
+    "Locations/The Owl Nest.md",
+    "Locations/Fort Timberpeak.md",
+    "Locations/Cities/Mylanora.md",
+    "People/Brandur Oswaldsön.md",
+    "Locations/Pinwood Inn.md",
+    "Playing t",
+    "People/Caradoc Miller.md",
+    "People/Kayne Rig.md",
+    "Groups/Oswaldsön.md",
+    "People/Katarina Berven.md",
+    "Religion/Sylvanus.md",
+    "People/Kelvyn.md",
+    "Not published/Session plans/Redand Kompaniet Akt 1.md",
+    "Not published/Session plans/Kompaniet 15.md",
+    "Calender.json",
+    "Groups/The Argent Veil.md",
+    "Images/TheArgentVeilpng.png",
+    "Images/Ikke bekræftet 454028.crdownload",
+    "Locations/Countries/Abreona.md",
+    "Groups/The High Counsel of Abreona.md",
+    "Religion/Kateus, God of Reasoning.md",
+    "Locations/Countries",
+    "Religion/Idis, God of Emotion.md",
+    "Religion",
+    "Titles/Forest Ranger.md",
+    "Titles/Corporal in Edrea.md",
+    "Not published/Handouts/Brev til Sigmund.md",
+    "Locations/The Elegant Timberland.md",
+    "People/Nyx.md",
+    "Images/Arrowhost.jpg",
+    "Arrowhost.jpg",
+    "Images/Nyx.png",
+    "Images/Edrea.jpg",
+    "Untitled.canvas",
+    "Images/Staff of Flowers.png",
+    "Images/Periapt of Health.png",
+    "Images/Common Spell Scroll.png"
+  ]
+}

@@ -1,0 +1,3 @@
+Clarke is a human fighter who have worked he's whole life in the [[Arrowhost]] Army. Trusting in authority and a person of action. Wears a uniform which includes leather armour with a breastplate. Weapons include, but are not limited to, Schimitars, shortswords and heavy Crossbows. 
+### The story
+Just recently while stationed in [[Fort Timberpeak]], serving under [[Katarina Berven]] he was assigned an investigation of a series of goblin attacks on lumber camps north of Timberpeak. Hes succes led him to be promoted to [[Forest Ranger]]. However after learning hes now CO is a lazy coward he quit hes duty as a ranger.

@@ -1,0 +1,1 @@
+A voluntary elvish guard, stationed in [[The Elegant Timberland]].

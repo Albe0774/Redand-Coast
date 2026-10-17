@@ -1,0 +1,5 @@
+A strong, levelheaded woman, serving with The [[Arrowhost]] Military. Currently, she holds the rank of commander and is stationed at [[Fort Timberpeak]]. She has a halfling apprentice named Danniel Fatrabbit, though she simply calls him Rabbit.
+
+Her leadership style is pragmatic and disciplined, but never harsh. She values loyalty and competence above rank, often leading by example rather than relying on authority alone. She believes in clear communication and expects her soldiers to think for themselves in critical moments. While she maintains a calm and composed exterior, she is fiercely protective of those under her command, earning their respect through fairness and courage.
+
+In the past, she was engaged to a man named Ingmarr Berven, with whom she has a child (Lukas). Although they are no longer together, she secretly looks out for them. Ingmarr, however, disapproves of her work, believing it to be too dangerous

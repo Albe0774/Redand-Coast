@@ -1,0 +1,3 @@
+Nadia is a priest of [[Tyr, God of Justice]] from [[Abreona]]. She usually wears simple rags and have a cloth in front of her eyes.
+
+She leads a group of refugees fleeing the war. While traveling through [[Snowmire]] she met [[Zoya Kanevsky]] and [[Nyx Ash'kharn]], who both followed her and some of her people to [[Arrowhost]]. On the road she taught Nyx about the ways of [[Tyr, God of Justice|Tyr]].
