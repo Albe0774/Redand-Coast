@@ -11,17 +11,28 @@
             "id": "64a053e35f040f8d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "People/Rayn.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/Zoya.png"
               },
-              "icon": "lucide-file",
-              "title": "Rayn"
+              "icon": "lucide-image",
+              "title": "Zoya"
+            }
+          },
+          {
+            "id": "0c4bb54dc7625650",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Not published/Images/Kaelen Hideout.png"
+              },
+              "icon": "lucide-image",
+              "title": "Kaelen Hideout"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 368.5
   },
   "right": {
     "id": "6d2287f3c852f4c1",
@@ -162,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Rayn.md",
+                "file": "Not published/Images/Kaelen Hideout.png",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -226,12 +237,31 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "bf0c3807a7e6ff5f",
+  "active": "0c4bb54dc7625650",
   "lastOpenFiles": [
+    "Not published/Images/Kaelen Draith Statblock.png",
+    "Not published/Images/Veil Acolyte.png",
+    "Not published/Images/Common Potion of Healing.png",
+    "Not published/Images/Common Spell Scroll.png",
+    "Not published/Images/Periapt of Health.png",
+    "Not published/Images/Staff of Flowers.png",
+    "Images/Nyx.png",
+    "Images/Arrowhost.jpg",
+    "Images/TheArgentVeilpng.png",
+    "Not published/Images/Ankheg.png",
+    "Not published/Images/Spy.png",
+    "Locations/Cities/Arrowhost.md",
+    "Groups/The High Counsel of Abreona.md",
+    "Images",
+    "Groups/The Argent Veil.md",
+    "Groups/Fallenclaw.md",
+    "Groups/The Council of Edrea.md",
+    "Gameplay/The Fading Spirit.md",
+    "Gameplay/Homebrew.md",
+    "People/Rayn.md",
     "Not published/Test.txt",
     "Not published/Nyt tekstdokument.txt",
     "Locations/Countries/Edrea.md",
-    "People/Rayn.md",
     "People/Rayn_bg.md",
     "The Calender.md",
     "People/Rayn_bg.txt",
@@ -252,28 +282,9 @@
     "People/Nyx Ash'kharn.md",
     "People/Sigmund Oswaldsön.md",
     "People/Clarke Mayhew.md",
-    "Locations/Countries/Abreona.md",
-    "Locations/Cities/Mylanora.md",
-    "Groups/The Protectors of the Forest.md",
-    "Groups/Oswaldsön.md",
-    "Groups/The High Counsel of Abreona.md",
-    "Groups/The Argent Veil.md",
-    "Groups/Fallenclaw.md",
-    "Not published/Images/Zoya.png",
-    "Not published/Images/Sigmund.jpg",
     "The World",
-    "Not published/Images/Edrea.jpg",
-    "Not published/Images/Pugilist Champion .png",
-    "Not published/Images/Bandit Crime Lord.png",
-    "Bandit Crime Lord.png",
     "Not published/Session plans/travel-planner-Session-15.pdf",
     "Not published/Encounters",
-    "Not published/Images/Veil Acolyte.png",
-    "Not published/Images/Kaelen Draith Statblock.png",
-    "Not published/Images/Kaelen Hideout.png",
-    "Not published/Images/Fallenclaw Residence.png",
-    "Not published/People",
-    "Gameplay",
     "Untitled.canvas"
   ]
 }
