@@ -23,12 +23,14 @@
             "id": "0c4bb54dc7625650",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Not published/Images/Kaelen Hideout.png"
+                "file": "Gameplay/The Fading Spirit.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Kaelen Hideout"
+              "icon": "lucide-file",
+              "title": "The Fading Spirit"
             }
           }
         ],
@@ -173,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Not published/Images/Kaelen Hideout.png",
+                "file": "Gameplay/The Fading Spirit.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -237,8 +239,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "0c4bb54dc7625650",
+  "active": "bf0c3807a7e6ff5f",
   "lastOpenFiles": [
+    "Gameplay/Homebrew.md",
+    "Not published/Images/Kaelen Hideout.png",
     "Not published/Images/Kaelen Draith Statblock.png",
     "Not published/Images/Veil Acolyte.png",
     "Not published/Images/Common Potion of Healing.png",
@@ -248,8 +252,6 @@
     "Images/Nyx.png",
     "Images/Arrowhost.jpg",
     "Images/TheArgentVeilpng.png",
-    "Not published/Images/Ankheg.png",
-    "Not published/Images/Spy.png",
     "Locations/Cities/Arrowhost.md",
     "Groups/The High Counsel of Abreona.md",
     "Images",
@@ -257,7 +259,6 @@
     "Groups/Fallenclaw.md",
     "Groups/The Council of Edrea.md",
     "Gameplay/The Fading Spirit.md",
-    "Gameplay/Homebrew.md",
     "People/Rayn.md",
     "Not published/Test.txt",
     "Not published/Nyt tekstdokument.txt",
