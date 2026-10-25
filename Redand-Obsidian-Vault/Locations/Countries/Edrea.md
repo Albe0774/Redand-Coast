@@ -41,7 +41,7 @@ Each family commanded a vital resource:
 - **The lumbermills of [[Arrowhost]]**
 - **The iron mines of [[Ironmere]]**
 - **The crop fields of [[Maymark]]**
-- **The quarry of [[Deepfell]]**
+- **The quarry of [[Deepfall]]**
 - **The largest mercantile company in [[Windcall]]**
 
 With these resources under their control, the families effectively ruled the entire nation. Recognizing that Edrea would collapse if any one of these resources fell out of government hands, the families agreed to form a [[The Council of Edrea|Council]] to govern collectively. This arrangement has kept the balance of power—and the peace—intact for over a millennium.
