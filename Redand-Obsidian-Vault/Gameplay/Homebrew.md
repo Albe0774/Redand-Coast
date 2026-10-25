@@ -8,13 +8,17 @@ At the end, and start, of every day that a creature predominantly stayed outside
 The DC is determined by how far above or below the temperature reaches the range set by the creatures clothes.
 
 | **Temp above/below <br>clothe range** | 0-5   | 6-10  | 11-15 | 16-20 | 21-25 |
-| ------------------------------------- | ----- | ----- | ----- | ----- | ----- |
+| :------------------------------------ | :---- | :---- | :---- | :---- | :---- |
 | **DC**                                | DC 10 | DC 15 | DC 20 | DC 25 | DC 30 |
 *Note:*
 - *The rules for a bedroll, and a blanket apply here*
 - *Any creature resistant/immune to cold/fire, ignore this condition entirely*
 ### Hunting and gathering
 See rules for hunting, foraging, herbalism and potion-crafting
+### Downtime while traveling
+You can do one down time activity, normally taking one whole day, every other day while traveling slowly. (At *slow speed*)
+
+
 ### Resting
 We are playing with Gritty Realism.
 
